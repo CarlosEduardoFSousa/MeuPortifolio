@@ -4,8 +4,7 @@ Meu portfólio pessoal desenvolvido do zero com **HTML e CSS puro**, sem framewo
 
 ## 🔗 Acesse o site
 
-> **[carlosEduardoFSousa.github.io/portfolio](https://carlosEduardoFSousa.github.io/portfolio)**  
-> *(atualize o link após publicar no GitHub Pages)*
+> **[carloseduardofsousa.netlify.app](https://carloseduardofsousa.netlify.app)**  
 
 ---
 
