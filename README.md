@@ -9,13 +9,6 @@ Meu portfólio pessoal desenvolvido do zero com **HTML e CSS puro**, sem framewo
 
 ---
 
-## 📸 Preview
-
-![Preview do Portfólio](preview.png)
-*(adicione um print do site aqui)*
-
----
-
 ## 🛠️ Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
