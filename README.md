@@ -37,15 +37,6 @@ git clone https://github.com/CarlosEduardoFSousa/portfolio.git
 
 ---
 
-## 📁 Estrutura
-
-```
-portfolio/
-└── index.html   # arquivo único — tudo em um só lugar
-```
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-ferreira-sousa/)
